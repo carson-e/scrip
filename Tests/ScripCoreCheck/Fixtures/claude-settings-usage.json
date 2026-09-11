@@ -1,0 +1,24 @@
+{
+  "loggedIn": true,
+  "blocked": false,
+  "url": "https://claude.ai/settings/usage",
+  "lines": [
+    "Current session",
+    "12% used",
+    "Resets 3:00 PM",
+    "All models",
+    "40% used",
+    "Resets Sunday"
+  ],
+  "bars": [],
+  "text": "Current session\n12% used\nResets 3:00 PM\nAll models\n40% used\nResets Sunday",
+  "candidates": {
+    "percents": [
+      { "label": "Current session 12% used", "value": 12 },
+      { "label": "All models 40% used", "value": 40 }
+    ],
+    "dollars": [],
+    "resets": ["Resets 3:00 PM", "Resets Sunday"],
+    "labeledRows": []
+  }
+}

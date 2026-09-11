@@ -1,0 +1,14 @@
+{
+  "loggedIn": true,
+  "blocked": false,
+  "url": "https://grok.com",
+  "lines": ["Grok", "Settings", "Chat"],
+  "bars": [],
+  "text": "Grok\nSettings\nChat",
+  "candidates": {
+    "percents": [],
+    "dollars": [{ "label": "Pro plan $30", "value": 30 }],
+    "resets": [],
+    "labeledRows": []
+  }
+}

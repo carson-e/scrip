@@ -1,0 +1,22 @@
+{
+  "loggedIn": true,
+  "blocked": false,
+  "url": "https://cursor.com/dashboard",
+  "lines": [
+    "Included Usage",
+    "Sep 3, 2026 - Oct 3, 2026",
+    "Cursor Models 23%",
+    "Other Models 71%"
+  ],
+  "bars": [],
+  "text": "Included Usage\nSep 3, 2026 - Oct 3, 2026\nCursor Models 23%\nOther Models 71%",
+  "candidates": {
+    "percents": [
+      { "label": "Cursor Models 23%", "value": 23 },
+      { "label": "Other Models 71%", "value": 71 }
+    ],
+    "dollars": [],
+    "resets": ["Sep 3, 2026 - Oct 3, 2026"],
+    "labeledRows": ["Cursor Models 23%", "Other Models 71%"]
+  }
+}

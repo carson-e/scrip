@@ -1,0 +1,18 @@
+{
+  "loggedIn": true,
+  "blocked": false,
+  "url": "https://grok.com",
+  "lines": [
+    "Weekly SuperGrok",
+    "7% used",
+    "Resets Friday"
+  ],
+  "bars": [],
+  "text": "Weekly SuperGrok\nPlus Limit\n7% used\nResets Friday",
+  "candidates": {
+    "percents": [{ "label": "7% used", "value": 7 }],
+    "dollars": [],
+    "resets": ["Resets Friday"],
+    "labeledRows": []
+  }
+}

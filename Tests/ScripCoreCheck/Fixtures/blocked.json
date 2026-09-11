@@ -1,0 +1,14 @@
+{
+  "loggedIn": false,
+  "blocked": true,
+  "url": "https://grok.com",
+  "lines": ["Sorry, you have been blocked"],
+  "bars": [],
+  "text": "Sorry, you have been blocked",
+  "candidates": {
+    "percents": [],
+    "dollars": [],
+    "resets": [],
+    "labeledRows": []
+  }
+}

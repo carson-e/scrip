@@ -1,0 +1,14 @@
+{
+  "loggedIn": false,
+  "blocked": false,
+  "url": "https://grok.com",
+  "lines": ["Log into your account", "Login with Google"],
+  "bars": [],
+  "text": "Log into your account\nLogin with Google",
+  "candidates": {
+    "percents": [],
+    "dollars": [],
+    "resets": [],
+    "labeledRows": []
+  }
+}

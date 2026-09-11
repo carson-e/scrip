@@ -1,0 +1,14 @@
+{
+  "loggedIn": true,
+  "blocked": false,
+  "url": "https://cursor.com/dashboard",
+  "lines": ["Dashboard", "Settings", "Plan $20"],
+  "bars": [],
+  "text": "Dashboard\nSettings\nPlan $20",
+  "candidates": {
+    "percents": [],
+    "dollars": [{ "label": "Plan $20", "value": 20 }],
+    "resets": [],
+    "labeledRows": []
+  }
+}

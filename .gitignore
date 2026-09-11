@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+Scrip.app/
+AIUsageBar.app/
+*.xcodeproj
+xcuserdata/
+.DS_Store
